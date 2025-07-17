@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-// ALUNOS: MATHEUS SEIDEL E VICTOR GUIMAR√ES
+// ALUNOS: MATHEUS SEIDEL E VICTOR GUIMAR√ÉES
 int main() {
     // VARIAVEIS DE ESCOLHA
     int opcao, dado = 0, produto = 0, limpe = 0, final = 0;
